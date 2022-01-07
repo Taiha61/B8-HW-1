@@ -1,8 +1,8 @@
 // máy tính cơ bản
-//const operator = prompt(`hãy nhập 1 trong 4 phép toán sau " + "; " - ";" * "; " / "`);
+const operator = prompt(`hãy nhập 1 trong 4 phép toán sau " + "; " - ";" * "; " / "`);
 // nhập đầu vào hai số
 
-/*switch (operator) {
+switch (operator) {
     case "+":
         {
             let a = parseInt(prompt("nhập số thứ nhất"));
@@ -43,7 +43,7 @@
         console.log(`hãy nhập 1 trong 4 phép toán sau "+"; "-";"*"; "/"`);
         break;
 }
-*/
+
 // bài 2 : tìm số nguyên tố
 // chương trình kiểm tra số có phải số nguyên tố không
 const number = parseInt(prompt("nhập số cần kiểm tra"));
